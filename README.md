@@ -49,4 +49,3 @@ Some layers types like fills don't have dimensions, beginning or end. In this ca
 ## Compatibility
 
 This plugin was last tested on Krita 5.2.2. It should keep working until Krita's next major release at the very least.
-That happens because the menu entries don't exist while the window is being created, only after, so they can be only altered when the window is already visible.
