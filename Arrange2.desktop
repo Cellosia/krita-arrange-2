@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=Arrange2
+X-Python-2-Compatible=false
+X-Krita-Manual=Manual.html
+Name=Arrange 2
+Comment=Align and distribute all types of layers.
